@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(255, 246, 192, 0.31);
+}
+
+#companyName {
+    height: 50px;
+}
+
+#FE, #BE, #logic {
+    display: inline-block;
+    margin: 5px 30px;
+}
+
+.scrum-point {
+    text-align: center;
+    font-size: 25px;
+}
+
+.teaminfo {
+    margin: 5px 10px;
+}
